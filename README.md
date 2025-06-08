@@ -59,7 +59,7 @@ Optional: AI API key for chat functionality
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/soil-health-app.git
+git clone https://github.com/Abrahamkimani/Soil_Health_App
 cd soil-health-app
 flutter pub get
 flutter run
